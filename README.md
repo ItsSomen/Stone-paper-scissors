@@ -42,5 +42,5 @@ Scissors beats Paper, and\
 Stone beats Paper
 
 ## Any suggestions
-For any suggestions contact me at somensamanta.cse2021@rceroorkee.in
+For any suggestions contact me at somensamanta.cse2021@rceroorkee.in \
 Any pull request is appreciated.
