@@ -11,6 +11,8 @@ Run the command below
 ```bash
 git clone https://github.com/ItsSomen/Stone-paper-scissors.git
 ```
+or\
+Simply download the zip and extract it, the run the main.py file.
 
 ## Usage
 
