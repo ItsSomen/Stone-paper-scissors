@@ -39,7 +39,7 @@ While working solo I learned that i have a good patience and am a good learner.
 # Rules of Game
 Paper beats Stone\
 Scissors beats Paper, and\
-Stone beats Paper
+Stone beats Scissors
 
 ## Any suggestions
 For any suggestions contact me at somensamanta.cse2021@rceroorkee.in \
